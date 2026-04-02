@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGrhYQOWXgA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DevUser\\RiderProjects\\CodeKB8\\MonkeyBot\\MonkeyBot\\MonkeyBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\DevUser\\.nuget\\packages\\telegram.bot\\22.9.5.3\\telegram.bot.22.9.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
